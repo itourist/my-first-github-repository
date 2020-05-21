@@ -4,3 +4,5 @@ here is my first github repository
 this file was modified manually during conflict resolution
 
 new changes was added locally
+
+new line was added locally
